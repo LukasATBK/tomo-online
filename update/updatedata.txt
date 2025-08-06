@@ -1,0 +1,4 @@
+[update]
+newversionid=2
+checkuplink=https://lukasatbk.itch.io/tomo-the-wildcat
+image=image.png
